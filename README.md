@@ -1,4 +1,4 @@
-===== Student Grade Management System =====
+=== Student Grade Management System ===
 
 1. Add Student
 2. Display All Students
